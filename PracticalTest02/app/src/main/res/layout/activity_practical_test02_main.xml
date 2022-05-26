@@ -107,7 +107,7 @@
 
 
     <TextView
-        android:id="@+id/weatherTextView"
+        android:id="@+id/dataTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAlignment="center"

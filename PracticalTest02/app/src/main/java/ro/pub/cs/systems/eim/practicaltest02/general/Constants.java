@@ -2,6 +2,10 @@ package ro.pub.cs.systems.eim.practicaltest02.general;
 
 public interface Constants {
     String BASE_URL = "http://worldtimeapi.org/api/ip";
+    String PUT = "put";
+    String GET = "get";
+    String UNIX_TIME = "unixtime";
+    String NONE = "none";
     /*String API_KEY = "e03c3b32cfb5a6f7069f2ef29237d87e";
     String QUERY = "q";
     String APP_ID = "appid";*/
